@@ -1,0 +1,9 @@
+{
+  "name": "feasibility-lookup-api",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@turf/boolean-point-in-polygon": "^6.5.0",
+    "@turf/helpers": "^6.5.0"
+  }
+}
